@@ -8,3 +8,15 @@ body {
     background-color: #000;
 }
 
+section.quienesSomos i, p {
+    color: #fff;
+}
+
+section.quienesSomos p {
+    text-align: justify;
+    margin-bottom: 0;
+}
+
+.icono {
+    font-size: 1.5rem;
+}
