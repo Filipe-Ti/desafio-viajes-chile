@@ -8,6 +8,10 @@ body {
     background-color: #000;
 }
 
+h2 {
+    text-transform: uppercase;
+}
+
 section.quienesSomos i, p {
     color: #fff;
 }
@@ -27,4 +31,8 @@ section.quienesSomos p {
 
 .colorFondoCeleste {
     background-color: #0dc9f0;
+}
+
+.margenIzquierda {
+    margin-left: 6rem;
 }
