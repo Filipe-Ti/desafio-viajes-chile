@@ -20,3 +20,11 @@ section.quienesSomos p {
 .icono {
     font-size: 1.5rem;
 }
+
+.altoImagenTarjeta {
+    height: 40%;
+}
+
+.colorFondoCeleste {
+    background-color: #0dc9f0;
+}
